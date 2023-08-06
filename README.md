@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/Mikoyzskie/fm-rating-component)
+- Live Site URL: [Vercel Deployment](https://fm-rating-component-p5b7l1ml2-mikoyzskie.vercel.app/)
 
 ## My process
 
